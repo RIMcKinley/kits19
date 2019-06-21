@@ -1,6 +1,8 @@
 # KiTS19
 
-The official [2019 KiTS Challenge](https://kits19.grand-challenge.org) repository.
+This is not the official [2019 KiTS Challenge](https://kits19.grand-challenge.org) repository :-)
+
+This is a fork containing a subset of the data, small enough to be loaded into a colab notebook
 
 ## Before Cloning
 This repository makes use of git-lfs. **Make sure to [install git-lfs](https://git-lfs.github.com/) before cloning!** It's very lightweight and works with Windows, Mac, and Linux. For Linux users, I'd recommend downloading and running the installer rather than using PackageCloud. You can verify the initialization by running 
